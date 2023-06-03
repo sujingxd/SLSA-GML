@@ -1,0 +1,468 @@
+data_name is : CR
+seed is : 42
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : CR
+seed is : 40
+best train acc : 0.7727272727272727best dev acc : 0.6286472148541115best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : CR
+seed is : 40
+best train acc : 0.9803921568627451best dev acc : 0.9058355437665783best test acc : 0.9298013245033112best_test_precision is: 0.9674620390455532best_test_recall is: 0.9214876033057852best_f1 score is: 0.9439153439153439
+data_name is : CR
+seed is : 42
+best train acc : 0.9673202614379085best dev acc : 0.8633879781420765best test acc : 0.8888888888888888best_test_precision is: 0.913302448709464best_test_recall is: 0.9355932203389831best_f1 score is: 0.9243134628265238
+data_name is : CR
+seed is : 40
+best train acc : 0.9647058823529412best dev acc : 0.8918032786885246best test acc : 0.900196656833825best_test_precision is: 0.9217506631299734best_test_recall is: 0.9423728813559322best_f1 score is: 0.9319477036540396
+data_name is : CR
+seed is : 42
+best train acc : 0.9607843137254902best dev acc : 0.907103825136612best test acc : 0.9070796460176991best_test_precision is: 0.9599427753934192best_test_recall is: 0.9098305084745762best_f1 score is: 0.9342151061608075
+data_name is : CR
+seed is : 40
+best train acc : 0.9333333333333333best dev acc : 0.892896174863388best test acc : 0.8962635201573255best_test_precision is: 0.9507845934379457best_test_recall is: 0.903728813559322best_f1 score is: 0.9266597149808828
+data_name is : CR
+seed is : 40
+best train acc : 0.9803921568627451best dev acc : 0.9158469945355191best test acc : 0.900196656833825best_test_precision is: 0.9428969359331476best_test_recall is: 0.9179661016949152best_f1 score is: 0.9302645139127448
+data_name is : CR
+seed is : 42
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : CR
+seed is : 40
+best train acc : 0.7727272727272727best dev acc : 0.6286472148541115best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : CR
+seed is : 42
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : CR
+seed is : 40
+best train acc : 0.6417910447761194best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : CR
+seed is : 42
+best train acc : 0.6417910447761194best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : CR
+seed is : 42
+best train acc : 0.9912280701754386best dev acc : 0.9217506631299734best test acc : 0.9324503311258279best_test_precision is: 0.9427402862985685best_test_recall is: 0.9524793388429752best_f1 score is: 0.9475847893114079
+data_name is : CR
+seed is : 40
+best train acc : 0.8333333333333334best dev acc : 0.7108753315649867best test acc : 0.7192052980132451best_test_precision is: 0.6959654178674352best_test_recall is: 0.9979338842975206best_f1 score is: 0.8200339558573854
+data_name is : CR
+seed is : 40
+best train acc : 1.0best dev acc : 0.9151193633952255best test acc : 0.9337748344370861best_test_precision is: 0.9539748953974896best_test_recall is: 0.9421487603305785best_f1 score is: 0.948024948024948
+data_name is : CR
+seed is : 42
+best train acc : 0.8982300884955752best dev acc : 0.73342175066313best test acc : 0.7324503311258278best_test_precision is: 0.8831521739130435best_test_recall is: 0.6714876033057852best_f1 score is: 0.7629107981220657
+data_name is : CR
+seed is : 42
+best train acc : 0.9529411764705882best dev acc : 0.8264540337711069best test acc : 0.8134957825679475best_test_precision is: 0.8155893536121673best_test_recall is: 0.807909604519774best_f1 score is: 0.8117313150425732
+data_name is : CR
+seed is : 40
+best train acc : 1.0best dev acc : 0.848968105065666best test acc : 0.845360824742268best_test_precision is: 0.8401486988847584best_test_recall is: 0.8512241054613936best_f1 score is: 0.8456501403180542
+data_name is : CR
+seed is : 42
+best train acc : 0.9803921568627451best dev acc : 0.874296435272045best test acc : 0.8603561387066542best_test_precision is: 0.8350877192982457best_test_recall is: 0.896421845574388best_f1 score is: 0.8646684831970937
+data_name is : CR
+seed is : 40
+best train acc : 0.996078431372549best dev acc : 0.8855534709193246best test acc : 0.8744142455482662best_test_precision is: 0.882466281310212best_test_recall is: 0.8625235404896422best_f1 score is: 0.8723809523809523
+data_name is : CR
+seed is : 40
+best train acc : 0.9906103286384976best dev acc : 0.8780487804878049best test acc : 0.8753514526710403best_test_precision is: 0.8566308243727598best_test_recall is: 0.9001883239171374best_f1 score is: 0.8778696051423323
+data_name is : CR
+seed is : 42
+best train acc : 1.0best dev acc : 0.875234521575985best test acc : 0.8669165885660731best_test_precision is: 0.826890756302521best_test_recall is: 0.9265536723163842best_f1 score is: 0.8738898756660745
+data_name is : CR
+seed is : 42
+best train acc : 0.8544600938967136best dev acc : 0.8386491557223265best test acc : 0.8041237113402062best_test_precision is: 0.7775862068965518best_test_recall is: 0.8493408662900188best_f1 score is: 0.8118811881188118
+data_name is : CR
+seed is : 40
+best train acc : 0.9894366197183099best dev acc : 0.8939962476547842best test acc : 0.8753514526710403best_test_precision is: 0.896414342629482best_test_recall is: 0.847457627118644best_f1 score is: 0.8712487899322361
+data_name is : CR
+seed is : 40
+best train acc : 0.9855072463768116best dev acc : 0.9254587155963303best test acc : 0.9319055464030752best_test_precision is: 0.9346622369878184best_test_recall is: 0.9284928492849285best_f1 score is: 0.9315673289183223
+data_name is : CR
+seed is : 42
+best train acc : 1.0best dev acc : 0.9277522935779816best test acc : 0.9313563975837452best_test_precision is: 0.9091858037578288best_test_recall is: 0.9581958195819582best_f1 score is: 0.9330476700589181
+data_name is : CR
+seed is : 40
+best train acc : 1.0best dev acc : 0.9254587155963303best test acc : 0.9302580999450851best_test_precision is: 0.9081419624217119best_test_recall is: 0.9570957095709571best_f1 score is: 0.9319764327798606
+data_name is : CR
+seed is : 40
+best train acc : 1.0best dev acc : 0.8784403669724771best test acc : 0.8649093904448105best_test_precision is: 0.8227848101265823best_test_recall is: 0.9295929592959296best_f1 score is: 0.8729338842975206
+data_name is : CR
+seed is : 42
+best train acc : 1.0best dev acc : 0.8807339449541285best test acc : 0.8830313014827018best_test_precision is: 0.8326959847036329best_test_recall is: 0.9581958195819582best_f1 score is: 0.8910485933503836
+data_name is : CR
+seed is : 42
+best train acc : 0.5648414985590778best dev acc : 0.5091743119266054best test acc : 0.49917627677100496best_test_precision is: 0.49917627677100496best_test_recall is: 1.0best_f1 score is: 0.6659340659340659
+data_name is : CR
+seed is : 40
+best train acc : 0.962536023054755best dev acc : 0.8692660550458715best test acc : 0.8725974739154311best_test_precision is: 0.8239234449760765best_test_recall is: 0.9471947194719472best_f1 score is: 0.8812691914022518
+data_name is : CR
+seed is : 42
+best train acc : 0.9855907780979827best dev acc : 0.9151376146788991best test acc : 0.9236683141131247best_test_precision is: 0.9061181434599156best_test_recall is: 0.944994499449945best_f1 score is: 0.9251480883144857
+data_name is : CR
+seed is : 42
+best train acc : 0.9956647398843931best dev acc : 0.9174311926605505best test acc : 0.9110378912685337best_test_precision is: 0.8977635782747604best_test_recall is: 0.9273927392739274best_f1 score is: 0.9123376623376624
+data_name is : CR
+seed is : 40
+best train acc : 1.0best dev acc : 0.9151376146788991best test acc : 0.9033498077979132best_test_precision is: 0.8903088391906283best_test_recall is: 0.9196919691969196best_f1 score is: 0.9047619047619047
+data_name is : CR
+seed is : 40
+best train acc : 0.9911504424778761best dev acc : 0.916445623342175best test acc : 0.9324503311258279best_test_precision is: 0.9655913978494624best_test_recall is: 0.9276859504132231best_f1 score is: 0.946259220231823
+data_name is : CR
+seed is : 40
+best train acc : 1.0best dev acc : 0.9244031830238727best test acc : 0.9311258278145695best_test_precision is: 0.9251968503937008best_test_recall is: 0.9710743801652892best_f1 score is: 0.9475806451612903
+data_name is : CR
+seed is : 40
+best train acc : 0.6417910447761194best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : CR
+seed is : 40
+best train acc : 0.8805970149253731best dev acc : 0.5729442970822282best test acc : 0.5682119205298013best_test_precision is: 0.616519174041298best_test_recall is: 0.8636363636363636best_f1 score is: 0.7194492254733219
+data_name is : CR
+seed is : 40
+best train acc : 0.6417910447761194best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : CR
+seed is : 40
+best train acc : 0.6417910447761194best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : CR
+seed is : 40
+best train acc : 0.6417910447761194best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : CR
+seed is : 40
+best train acc : 0.6417910447761194best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.6417910447761194best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9883720930232558best dev acc : 0.830238726790451best test acc : 0.8556291390728477best_test_precision is: 0.8378378378378378best_test_recall is: 0.9607438016528925best_f1 score is: 0.8950914340712223
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9883720930232558best dev acc : 0.830238726790451best test acc : 0.8556291390728477best_test_precision is: 0.8378378378378378best_test_recall is: 0.9607438016528925best_f1 score is: 0.8950914340712223
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.6627906976744186best dev acc : 0.6220159151193634best test acc : 0.6370860927152318best_test_precision is: 0.6418918918918919best_test_recall is: 0.981404958677686best_f1 score is: 0.7761437908496732
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.6976744186046512best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.6627906976744186best dev acc : 0.6220159151193634best test acc : 0.6370860927152318best_test_precision is: 0.6418918918918919best_test_recall is: 0.981404958677686best_f1 score is: 0.7761437908496732
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.6976744186046512best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.6976744186046512best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9767441860465116best dev acc : 0.8328912466843501best test acc : 0.8503311258278146best_test_precision is: 0.8601941747572815best_test_recall is: 0.9152892561983471best_f1 score is: 0.8868868868868869
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9767441860465116best dev acc : 0.8527851458885941best test acc : 0.8688741721854305best_test_precision is: 0.8920570264765784best_test_recall is: 0.9049586776859504best_f1 score is: 0.8984615384615384
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9767441860465116best dev acc : 0.8090185676392573best test acc : 0.8278145695364238best_test_precision is: 0.8116197183098591best_test_recall is: 0.9524793388429752best_f1 score is: 0.876425855513308
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9883720930232558best dev acc : 0.8355437665782494best test acc : 0.8516556291390729best_test_precision is: 0.8357400722021661best_test_recall is: 0.9566115702479339best_f1 score is: 0.8921001926782275
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9883720930232558best dev acc : 0.8368700265251989best test acc : 0.8516556291390729best_test_precision is: 0.8357400722021661best_test_recall is: 0.9566115702479339best_f1 score is: 0.8921001926782275
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9651162790697675best dev acc : 0.7281167108753316best test acc : 0.7311258278145696best_test_precision is: 0.7106446776611695best_test_recall is: 0.9793388429752066best_f1 score is: 0.8236316246741964
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9418604651162791best dev acc : 0.7771883289124668best test acc : 0.7801324503311259best_test_precision is: 0.758957654723127best_test_recall is: 0.9628099173553719best_f1 score is: 0.848816029143898
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9418604651162791best dev acc : 0.7771883289124668best test acc : 0.7801324503311259best_test_precision is: 0.758957654723127best_test_recall is: 0.9628099173553719best_f1 score is: 0.848816029143898
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9651162790697675best dev acc : 0.8819628647214854best test acc : 0.9006622516556292best_test_precision is: 0.9251559251559252best_test_recall is: 0.9194214876033058best_f1 score is: 0.922279792746114
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9651162790697675best dev acc : 0.8819628647214854best test acc : 0.9006622516556292best_test_precision is: 0.9251559251559252best_test_recall is: 0.9194214876033058best_f1 score is: 0.922279792746114
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9173553719008265best dev acc : 0.8753315649867374best test acc : 0.8757929883138564best_test_precision is: 0.9075052854122622best_test_recall is: 0.8970741901776385best_f1 score is: 0.9022595901208618
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9545454545454546best dev acc : 0.8872679045092838best test acc : 0.8954924874791319best_test_precision is: 0.8968765493306892best_test_recall is: 0.945141065830721best_f1 score is: 0.9203764945306538
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9256198347107438best dev acc : 0.8527851458885941best test acc : 0.867779632721202best_test_precision is: 0.8802605210420842best_test_recall is: 0.9179728317659352best_f1 score is: 0.8987212276214834
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9008264462809917best dev acc : 0.8620689655172413best test acc : 0.8808013355592654best_test_precision is: 0.9192245557350566best_test_recall is: 0.8918495297805643best_f1 score is: 0.9053301511535402
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9008264462809917best dev acc : 0.8594164456233422best test acc : 0.8814691151919867best_test_precision is: 0.9211237169097785best_test_recall is: 0.8908045977011494best_f1 score is: 0.9057104913678617
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.8966942148760331best dev acc : 0.8580901856763926best test acc : 0.8831385642737897best_test_precision is: 0.9231601731601732best_test_recall is: 0.8913270637408568best_f1 score is: 0.9069643806485911
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9008264462809917best dev acc : 0.8607427055702918best test acc : 0.8814691151919867best_test_precision is: 0.9211237169097785best_test_recall is: 0.8908045977011494best_f1 score is: 0.9057104913678617
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.8966942148760331best dev acc : 0.8567639257294429best test acc : 0.8831385642737897best_test_precision is: 0.9236186348862405best_test_recall is: 0.8908045977011494best_f1 score is: 0.9069148936170213
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9008264462809917best dev acc : 0.883289124668435best test acc : 0.9038397328881469best_test_precision is: 0.9310710498409331best_test_recall is: 0.9174503657262278best_f1 score is: 0.9242105263157895
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9513392857142857best dev acc : 0.8846153846153846best test acc : 0.9080357142857143best_test_precision is: 0.9168937329700273best_test_recall is: 0.9412587412587412best_f1 score is: 0.9289164941338854
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9500442086648984best dev acc : 0.9045092838196287best test acc : 0.9086092715231788best_test_precision is: 0.9076620825147348best_test_recall is: 0.9545454545454546best_f1 score is: 0.9305135951661632
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9964633068081344best dev acc : 0.903183023872679best test acc : 0.9258278145695364best_test_precision is: 0.9458333333333333best_test_recall is: 0.9380165289256198best_f1 score is: 0.9419087136929459
+data_name is : twitter2013
+seed is : 42
+best train acc : 1.0best dev acc : 0.903183023872679best test acc : 0.9152317880794701best_test_precision is: 0.9338842975206612best_test_recall is: 0.9338842975206612best_f1 score is: 0.9338842975206612
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9847560975609756best dev acc : 0.9204244031830239best test acc : 0.8496732026143791best_test_precision is: 0.8802083333333334best_test_recall is: 0.8802083333333334best_f1 score is: 0.8802083333333334
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9847560975609756best dev acc : 0.9190981432360743best test acc : 0.8496732026143791best_test_precision is: 0.8802083333333334best_test_recall is: 0.8802083333333334best_f1 score is: 0.8802083333333334
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9908536585365854best dev acc : 0.916445623342175best test acc : 0.8496732026143791best_test_precision is: 0.8724489795918368best_test_recall is: 0.890625best_f1 score is: 0.8814432989690721
+data_name is : twitter2013
+seed is : 42
+best train acc : 0.9967146828405358best dev acc : 0.9173419773095624best test acc : 0.9273080660835763best_test_precision is: 0.9248687222297024best_test_recall is: 0.9730840062331775best_f1 score is: 0.9483639375949192
+data_name is : cr
+seed is : 42
+best train acc : 0.6best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 42
+best train acc : 0.6best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 42
+best train acc : 1.0best dev acc : 0.6618037135278515best test acc : 0.6675496688741722best_test_precision is: 0.6629370629370629best_test_recall is: 0.9793388429752066best_f1 score is: 0.7906588824020017
+data_name is : cr
+seed is : 42
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 42
+best train acc : 1.0best dev acc : 0.6618037135278515best test acc : 0.6675496688741722best_test_precision is: 0.6629370629370629best_test_recall is: 0.9793388429752066best_f1 score is: 0.7906588824020017
+data_name is : cr
+seed is : 42
+best train acc : 1.0best dev acc : 0.6618037135278515best test acc : 0.6675496688741722best_test_precision is: 0.6629370629370629best_test_recall is: 0.9793388429752066best_f1 score is: 0.7906588824020017
+data_name is : cr
+seed is : 42
+best train acc : 0.6417910447761194best dev acc : 0.6246684350132626best test acc : 0.6357615894039735best_test_precision is: 0.6398929049531459best_test_recall is: 0.987603305785124best_f1 score is: 0.776604386677498
+data_name is : cr
+seed is : 41
+best train acc : 0.6716417910447762best dev acc : 0.6312997347480106best test acc : 0.6397350993377483best_test_precision is: 0.6405835543766578best_test_recall is: 0.9979338842975206best_f1 score is: 0.7802907915993538
+data_name is : cr
+seed is : 41
+best train acc : 0.9402985074626866best dev acc : 0.6472148541114059best test acc : 0.6622516556291391best_test_precision is: 0.6562073669849932best_test_recall is: 0.993801652892562best_f1 score is: 0.790468364831553
+data_name is : cr
+seed is : 41
+best train acc : 0.9402985074626866best dev acc : 0.6472148541114059best test acc : 0.6622516556291391best_test_precision is: 0.6562073669849932best_test_recall is: 0.993801652892562best_f1 score is: 0.790468364831553
+data_name is : cr
+seed is : 40
+best train acc : 1.0best dev acc : 0.8885941644562334best test acc : 0.9139072847682119best_test_precision is: 0.9099804305283757best_test_recall is: 0.9607438016528925best_f1 score is: 0.9346733668341708
+data_name is : cr
+seed is : 41
+best train acc : 0.9402985074626866best dev acc : 0.6472148541114059best test acc : 0.6622516556291391best_test_precision is: 0.6562073669849932best_test_recall is: 0.993801652892562best_f1 score is: 0.790468364831553
+data_name is : cr
+seed is : 42
+best train acc : 0.9552238805970149best dev acc : 0.7201591511936339best test acc : 0.7337748344370861best_test_precision is: 0.7102526002971769best_test_recall is: 0.987603305785124best_f1 score is: 0.8262748487467588
+data_name is : cr
+seed is : 42
+best train acc : 0.9552238805970149best dev acc : 0.7201591511936339best test acc : 0.7337748344370861best_test_precision is: 0.7102526002971769best_test_recall is: 0.987603305785124best_f1 score is: 0.8262748487467588
+data_name is : cr
+seed is : 40
+best train acc : 1.0best dev acc : 0.8885941644562334best test acc : 0.9139072847682119best_test_precision is: 0.9099804305283757best_test_recall is: 0.9607438016528925best_f1 score is: 0.9346733668341708
+data_name is : cr
+seed is : 42
+best train acc : 0.9552238805970149best dev acc : 0.7201591511936339best test acc : 0.7337748344370861best_test_precision is: 0.7102526002971769best_test_recall is: 0.987603305785124best_f1 score is: 0.8262748487467588
+data_name is : cr
+seed is : 45
+best train acc : 0.7910447761194029best dev acc : 0.6352785145888594best test acc : 0.6463576158940397best_test_precision is: 0.644474034620506best_test_recall is: 1.0best_f1 score is: 0.7838056680161943
+data_name is : cr
+seed is : 50
+best train acc : 1.0best dev acc : 0.9111405835543767best test acc : 0.904635761589404best_test_precision is: 0.8901515151515151best_test_recall is: 0.9710743801652892best_f1 score is: 0.9288537549407114
+data_name is : cr
+seed is : 50
+best train acc : 1.0best dev acc : 0.6870026525198939best test acc : 0.6966887417218544best_test_precision is: 0.6872246696035242best_test_recall is: 0.9669421487603306best_f1 score is: 0.8034334763948497
+data_name is : cr
+seed is : 50
+best train acc : 1.0best dev acc : 0.6472148541114059best test acc : 0.6463576158940397best_test_precision is: 0.6460296096904441best_test_recall is: 0.9917355371900827best_f1 score is: 0.7823960880195598
+data_name is : cr
+seed is : 50
+best train acc : 1.0best dev acc : 0.6472148541114059best test acc : 0.6463576158940397best_test_precision is: 0.6460296096904441best_test_recall is: 0.9917355371900827best_f1 score is: 0.7823960880195598
+data_name is : cr
+seed is : 40
+best train acc : 0.9090909090909091best dev acc : 0.6312997347480106best test acc : 0.6516556291390728best_test_precision is: 0.6617862371888726best_test_recall is: 0.9338842975206612best_f1 score is: 0.7746358183376179
+data_name is : cr
+seed is : 40
+best train acc : 0.9954510993176648best dev acc : 0.9043760129659644best test acc : 0.9313896987366375best_test_precision is: 0.9332969581230391best_test_recall is: 0.9692591018557869best_f1 score is: 0.950938151494093
+data_name is : cr
+seed is : 40
+best train acc : 1.0best dev acc : 0.7423014586709886best test acc : 0.7983479105928085best_test_precision is: 0.8811563169164882best_test_recall is: 0.8161212636350758best_f1 score is: 0.8473928072368905
+data_name is : cr
+seed is : 40
+best train acc : 1.0best dev acc : 0.8282009724473258best test acc : 0.8483965014577259best_test_precision is: 0.8333131288641047best_test_recall is: 0.9737923218586202best_f1 score is: 0.8980925006532531
+data_name is : cr
+seed is : 40
+best train acc : 0.9777777777777777best dev acc : 0.8346839546191248best test acc : 0.8830903790087463best_test_precision is: 0.9025295573274676best_test_recall is: 0.9300184162062615best_f1 score is: 0.9160678155305937
+data_name is : cr
+seed is : 40
+best train acc : 1.0best dev acc : 0.912568306010929best test acc : 0.9100294985250738best_test_precision is: 0.9353099730458221best_test_recall is: 0.9410169491525424best_f1 score is: 0.9381547820209531
+data_name is : twitter2013
+seed is : 40
+best train acc : 1.0best dev acc : 0.5792349726775956best test acc : 0.543756145526057best_test_precision is: 0.7673509286412512best_test_recall is: 0.5322033898305085best_f1 score is: 0.6285028022417934
+data_name is : twitter2013
+seed is : 40
+best train acc : 0.92best dev acc : 0.6284153005464481best test acc : 0.6637168141592921best_test_precision is: 0.7563188593648736best_test_recall is: 0.7911864406779661best_f1 score is: 0.7733598409542743
+data_name is : twitter2013
+seed is : 40
+best train acc : 0.92best dev acc : 0.6273224043715847best test acc : 0.6642084562438545best_test_precision is: 0.7561448900388098best_test_recall is: 0.792542372881356best_f1 score is: 0.7739159218801722
+data_name is : cr
+seed is : 40
+best train acc : 1.0best dev acc : 0.9177718832891246best test acc : 0.9324503311258279best_test_precision is: 0.9463917525773196best_test_recall is: 0.9483471074380165best_f1 score is: 0.9473684210526315
+data_name is : cr
+seed is : 40
+best train acc : 1.0best dev acc : 0.9177718832891246best test acc : 0.9311258278145695best_test_precision is: 0.9462809917355371best_test_recall is: 0.9462809917355371best_f1 score is: 0.9462809917355371
+data_name is : cr
+seed is : 40
+best train acc : 0.9912280701754386best dev acc : 0.9137931034482759best test acc : 0.9258278145695364best_test_precision is: 0.9632034632034632best_test_recall is: 0.9194214876033058best_f1 score is: 0.9408033826638478
+data_name is : cr
+seed is : 40
+best train acc : 1.0best dev acc : 0.9098143236074271best test acc : 0.9218543046357616best_test_precision is: 0.9275653923541247best_test_recall is: 0.9524793388429752best_f1 score is: 0.9398572884811416
+data_name is : cr
+seed is : 1
+best train acc : 1.0best dev acc : 0.916445623342175best test acc : 0.9245033112582781best_test_precision is: 0.9402061855670103best_test_recall is: 0.9421487603305785best_f1 score is: 0.9411764705882353
+data_name is : cr
+seed is : 1
+best train acc : 1.0best dev acc : 0.9217506631299734best test acc : 0.9311258278145695best_test_precision is: 0.9444444444444444best_test_recall is: 0.9483471074380165best_f1 score is: 0.9463917525773196
+data_name is : cr
+seed is : 1
+best train acc : 0.8best dev acc : 0.603448275862069best test acc : 0.6211920529801325best_test_precision is: 0.6375best_test_recall is: 0.9483471074380165best_f1 score is: 0.7624584717607973
+data_name is : cr
+seed is : 40
+best train acc : 0.8best dev acc : 0.6339522546419099best test acc : 0.6437086092715232best_test_precision is: 0.6431424766977364best_test_recall is: 0.9979338842975206best_f1 score is: 0.7821862348178138
+data_name is : cr
+seed is : 42
+best train acc : 1.0best dev acc : 0.6525198938992043best test acc : 0.6490066225165563best_test_precision is: 0.6527196652719666best_test_recall is: 0.9669421487603306best_f1 score is: 0.7793505412156536
+data_name is : cr
+seed is : 50
+best train acc : 1.0best dev acc : 0.7599469496021221best test acc : 0.7576158940397351best_test_precision is: 0.7572649572649572best_test_recall is: 0.9152892561983471best_f1 score is: 0.8288119738072965
+data_name is : cr
+seed is : 60
+best train acc : 0.6best dev acc : 0.629973474801061best test acc : 0.6437086092715232best_test_precision is: 0.6427622841965471best_test_recall is: 1.0best_f1 score is: 0.7825383993532741
+data_name is : cr
+seed is : 60
+best train acc : 1.0best dev acc : 0.5215759849906192best test acc : 0.5520149953139644best_test_precision is: 0.5264735264735265best_test_recall is: 0.992467043314501best_f1 score is: 0.6879895561357702
+data_name is : cr
+seed is : 30
+best train acc : 1.0best dev acc : 0.6341463414634146best test acc : 0.6494845360824743best_test_precision is: 0.6042496679946879best_test_recall is: 0.8568738229755178best_f1 score is: 0.7087227414330218
+data_name is : cr
+seed is : 45
+best train acc : 1.0best dev acc : 0.5544090056285178best test acc : 0.5791940018744143best_test_precision is: 0.5461711711711712best_test_recall is: 0.9133709981167608best_f1 score is: 0.6835799859055673
+data_name is : cr
+seed is : 40
+best train acc : 0.6396993810786914best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : mr
+seed is : 40
+best train acc : 0.9090909090909091best dev acc : 0.4793621013133208best test acc : 0.5023430178069354best_test_precision is: 0.5best_test_recall is: 0.9981167608286252best_f1 score is: 0.666247642991829
+data_name is : cr
+seed is : 40
+best train acc : 0.6best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 50
+best train acc : 1.0best dev acc : 0.6777188328912467best test acc : 0.6741721854304635best_test_precision is: 0.6648199445983379best_test_recall is: 0.9917355371900827best_f1 score is: 0.7960199004975124
+data_name is : cr
+seed is : 60
+best train acc : 0.6best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 70
+best train acc : 0.6best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 80
+best train acc : 0.6best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 80
+best train acc : 0.8181818181818182best dev acc : 0.6551724137931034best test acc : 0.6543046357615894best_test_precision is: 0.6739469578783152best_test_recall is: 0.8925619834710744best_f1 score is: 0.768
+data_name is : cr
+seed is : 90
+best train acc : 0.9090909090909091best dev acc : 0.6074270557029178best test acc : 0.6384105960264901best_test_precision is: 0.692167577413479best_test_recall is: 0.7851239669421488best_f1 score is: 0.7357212003872217
+data_name is : cr
+seed is : 100
+best train acc : 1.0best dev acc : 0.616710875331565best test acc : 0.5894039735099338best_test_precision is: 0.7208121827411168best_test_recall is: 0.5867768595041323best_f1 score is: 0.6469248291571754
+data_name is : cr
+seed is : 40
+best train acc : 0.5454545454545454best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 40
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 40
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 30
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 60
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 60
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 60
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 60
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 60
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 60
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 60
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 40
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 40
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 40
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 40
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 40
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : cr
+seed is : 40
+best train acc : 0.7727272727272727best dev acc : 0.629973474801061best test acc : 0.6410596026490066best_test_precision is: 0.6410596026490066best_test_recall is: 1.0best_f1 score is: 0.7812752219531881
+data_name is : 0.25%-mr
+seed is : 20
+best train acc : 0.9545454545454546best dev acc : 0.5075046904315197best test acc : 0.53514526710403best_test_precision is: 0.5173783515392254best_test_recall is: 0.9811676082862524best_f1 score is: 0.6775032509752926
+data_name is : 0.25%-mr
+seed is : 20
+best train acc : 0.9545454545454546best dev acc : 0.5046904315196998best test acc : 0.5313964386129335best_test_precision is: 0.5153010858835143best_test_recall is: 0.9830508474576272best_f1 score is: 0.6761658031088082
+data_name is : 0.25%-mr
+seed is : 20
+best train acc : 1.0best dev acc : 0.5178236397748592best test acc : 0.549203373945642best_test_precision is: 0.5257731958762887best_test_recall is: 0.96045197740113best_f1 score is: 0.6795469686875416
+data_name is : 0.25%-mr
+seed is : 40
+best train acc : 1.0best dev acc : 0.776735459662289best test acc : 0.7731958762886598best_test_precision is: 0.6982167352537723best_test_recall is: 0.9585687382297552best_f1 score is: 0.8079365079365078
+data_name is : 0.25%-mr
+seed is : 20
+best train acc : 0.9090909090909091best dev acc : 0.5440900562851783best test acc : 0.569821930646673best_test_precision is: 0.539647577092511best_test_recall is: 0.9227871939736346best_f1 score is: 0.681028492008339
+data_name is : 0.25%-mr
+seed is : 20
+best train acc : 0.9545454545454546best dev acc : 0.5844277673545967best test acc : 0.6138706654170571best_test_precision is: 0.5771725032425421best_test_recall is: 0.8380414312617702best_f1 score is: 0.6835637480798771
+data_name is : 0.25%-mr
+seed is : 40
+best train acc : 1.0best dev acc : 0.7729831144465291best test acc : 0.7731958762886598best_test_precision is: 0.6960651289009498best_test_recall is: 0.9661016949152542best_f1 score is: 0.8091482649842272
