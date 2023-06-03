@@ -1,0 +1,1 @@
+--task_name eprstmt --data_name MR --use_best_model True --seed 42 --device cpu
