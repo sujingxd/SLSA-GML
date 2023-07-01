@@ -21,6 +21,6 @@ generate_training-pairs.py
 ### generate semantic-related facotr
 EFL-based classification model/examples/few_shot/efl/train-single.py  
 ### generate knn-related facotr
-transformers-modify/examples/run_glue.py
+semantic_deep_network/run_semantic_deep_network.py
 ### run gml
 gml-master/example.py
